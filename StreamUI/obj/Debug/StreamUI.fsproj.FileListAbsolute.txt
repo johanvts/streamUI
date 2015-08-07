@@ -1,0 +1,8 @@
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\StreamUI.exe.config
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\StreamUI.XML
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\StreamUI.exe
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\StreamUI.pdb
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\FSharp.Core.dll
+C:\Users\Johan\streamUI\StreamUI\bin\Debug\FSharp.Core.xml
+C:\Users\Johan\streamUI\StreamUI\obj\Debug\StreamUI.exe
+C:\Users\Johan\streamUI\StreamUI\obj\Debug\StreamUI.pdb
